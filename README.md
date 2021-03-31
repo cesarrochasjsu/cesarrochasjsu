@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/hlissner/doom-emacs/screenshots/cacochan.png" align="right" />
 </a>
 
-I'm a weeb with a fetish for Lispy languages and TeX documents.
+I'm a weeb with a fetish for Lispy languages and TeX documents. I seek to manage fleets of machines. This is a small stepping stone to that goal.
 
 
 
