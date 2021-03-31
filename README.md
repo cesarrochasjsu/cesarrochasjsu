@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a tech weeb with a fetish for Lispy languages and TeX documents.
+I'm a weeb with a fetish for Lispy languages and TeX documents.
 
 <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573">
   <img src="https://raw.githubusercontent.com/hlissner/doom-emacs/screenshots/cacochan.png" align="right" />
